@@ -142,8 +142,14 @@ body {
 
 .hero {
     background-image: url("./imgs/hero_background.svg");
+    background-repeat: no-repeat;
+    background-position: center;
     height: 467px;
     margin-bottom: 147px;
+}
+
+.hero__link {
+    text-decoration: none;
 }
 
 .hero__tittle {
@@ -236,6 +242,7 @@ body {
 
 /* Our end */
 /* Quality start */
+
 .quality {
     background-color: #683292;
     height: 723px;
@@ -291,7 +298,6 @@ body {
 
 /* Quality end */
 /* Stats start */
-
 .stats {
     height: 340px;
 }
@@ -410,6 +416,8 @@ body {
 .teamplate {
     margin-block: 150px 142px;
     background-image: url("./imgs/template_background.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .temp__tittle {
