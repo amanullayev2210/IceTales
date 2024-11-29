@@ -148,9 +148,6 @@ body {
     margin-bottom: 147px;
 }
 
-.hero__link {
-    text-decoration: none;
-}
 
 .hero__tittle {
     font-family: 'Berkshire Swash';
@@ -167,10 +164,15 @@ body {
     width: 231.19px;
     height: 52px;
     margin: 0 auto;
-    padding-block: 15px 17px;  
+    padding-block: 16px 18px;  
     border-radius: 35px;
     text-align: center;
     background-color: #FFFFFF;
+}
+
+.hero__link {
+    text-decoration: none;
+    color: #0F0200;;
 }
 
 .hero__span {
@@ -178,12 +180,6 @@ body {
     line-height: 18px;
     padding-right: 6.34px;
     color: #F83D8E;
-}
-
-.hero__lastspan {
-    font-size: 18px;
-    line-height: 18px;
-    color: #0F0200;
 }
 
 .hero__iconspan {
