@@ -180,6 +180,12 @@ body {
     color: #F83D8E;
 }
 
+.hero__lastspan {
+    font-size: 18px;
+    line-height: 18px;
+    color: #0F0200;
+}
+
 .hero__iconspan {
     padding-right: 6.34px;
 }
