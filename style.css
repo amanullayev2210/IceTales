@@ -559,8 +559,12 @@ body {
 }
 
 .field__privacy {
-    transform: translateY(1px);
-    margin: 0 9px 0 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 20px;
+    background-color: #E8E8E8;
+    transform: translateY(3.79px);
+    margin: 0px 9px 0 0;
 }
 
 .field__link {
