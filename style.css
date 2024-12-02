@@ -144,6 +144,7 @@ body {
     background-image: url("./imgs/hero_background.svg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     height: 467px;
     margin-bottom: 147px;
 }
@@ -420,6 +421,8 @@ body {
     background-image: url("./imgs/template_background.svg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
+
 }
 
 .temp__tittle {
@@ -590,7 +593,7 @@ body {
 }
 
 .footer__img {
-    padding-top: 100px;
+    padding-top: 113px;
 }
 
 .footer__link {
